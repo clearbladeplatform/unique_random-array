@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,unique_random-array",
+    "logging_enabled": "false",
+    "name": "unique_random-arraySmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "unique_random-arraySmokeTest.js"
+}
